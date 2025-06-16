@@ -6,7 +6,7 @@ import { getStorage } from "firebase/storage";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBUxw-1HLsZcCl7QT9-UM19LyqZ0xBrLO4", // Example public API key
+  
   authDomain: "virtual-event-platform-demo.firebaseapp.com",
   projectId: "virtual-event-platform-demo",
   storageBucket: "virtual-event-platform-demo.appspot.com",
